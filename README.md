@@ -13,7 +13,7 @@ Actualmente, **Marina Coders** está en una fase temprana de desarrollo. El proy
 ## Objetivos Iniciales
 
 - Crear una estructura básica de la aplicación con HTML, CSS y JavaScript.
-- Implementar un servidor falso utilizando Node.js para simular una base de datos y manejar operaciones CRUD.
+- Implementar un servidor falso utilizando JSON Server para simular una base de datos y manejar operaciones CRUD.
 - Desarrollar un formulario que permita la creación de una lista de supuestos afiliados a Marina Coders. Los usuarios podrán proporcionar los siguientes datos:
   - Nombre del socio.
   - Nombre de la embarcación.
