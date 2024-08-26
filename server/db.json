@@ -1,0 +1,11 @@
+{
+  "posts": [
+    { "id": 1, "title": "Primer Post", "author": "Dario" },
+    { "id": 2, "title": "Segundo Post", "author": "Maria" }
+  ],
+  "comments": [
+    { "id": 1, "postId": 1, "body": "Gran post!" },
+    { "id": 2, "postId": 2, "body": "Muy informativo." }
+  ],
+  "prueba": [{ "id": 11, "titulo": "hola" }]
+}
