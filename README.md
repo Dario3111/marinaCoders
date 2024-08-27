@@ -26,7 +26,7 @@ Actualmente, **Marina Coders** está en una fase temprana de desarrollo. El proy
 
 ## Próximas Actualizaciones
 
-- Mejorar la interfaz de usuario (UI) con estilos avanzados y diseño responsivo.
+- Mejorar la interfaz de usuario (UI) con estilos avanzados.
 - Implementar autenticación y autorización de usuarios.
 - Agregar contenido educativo, como tutoriales y ejemplos de código.
 - Integrar funcionalidades sociales, como comentarios y foros de discusión.
