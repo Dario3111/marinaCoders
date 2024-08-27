@@ -63,3 +63,26 @@ async function addSocio(socio) {
     console.error("Error adding the socio:", error);
   }
 }
+// Función para editar un socio (PUT)
+async function updateSocio(id, updatedSocio) {
+  try {
+    const response = await fetch(`${API_URL_MARINA}/${id}`, {
+      method: "PUT",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(updatedSocio),
+    });
+
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+
+    console.log("Socio updated:", id);
+
+    // Actualizar la lista de socios después de la actualización
+    getMarinaSocios();
+  } catch (error) {
+    console.error("Error updating the socio:", error);
+  }
+}
