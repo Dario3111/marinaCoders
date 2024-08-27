@@ -16,9 +16,9 @@
             <button class="dropdown-button">Information</button>
             <div class="dropdown-content">
               <p>
-                <b>Completa:</b> Completa los siguientes datos para<strong
-                  >asegurar tu zarpe y el acceso a las instalaciones:</strong
-                >Nombre del socio Nombre de la embarcación Número de afiliado
+                <b>Completa los siguientes datos</b> para asegurar tu zarpe y el
+                acceso a las instalaciones: Nombre del socio, Nombre de la
+                embarcación y Número de afiliado.
               </p>
             </div>
           </div>
@@ -30,16 +30,16 @@
             </div>
           </div>
           <div class="nav-item">
-            <button class="dropdown-button">Videos</button>
+            <button class="dropdown-button">Fotos</button>
             <div class="dropdown-content">
               <p>
-                <a href="assets/video1Puerto.mp4" target="videoPuerto"
-                  >▶ 1 Video Del Puerto</a
+                <a href="assets/foto_1_veleros.jpg" target="videoPuerto"
+                  >▶ 1 foto veleros</a
                 >
               </p>
               <p>
-                <a href="assets/video2barco.mp4" target="videoDeEmbarcacion"
-                  >▶ 2 Video De Embarcación</a
+                <a href="assets/foto_2_barcos.jpg" target="videoDeEmbarcacion"
+                  >▶ 2 foto barcos</a
                 >
               </p>
             </div>
@@ -47,6 +47,38 @@
         </nav>
       </div>
     </header>
+    <main>
+      <!-- Video de fondo -->
+      <video autoplay muted loop id="background-video">
+        <source src="assets/video1Puerto.mp4" type="video/mp4" />
+      </video>
+
+      <h1>Marina Coders</h1>
+
+      <!-- Formulario para agregar o editar un animal -->
+      <form id="socio">
+        <label for="nombre">Nombre del socio:</label>
+        <input type="text" id="nombre" required />
+
+        <label for="">Embarcación:</label>
+        <input type="text" id="embarcacion" required />
+
+        <label for="numero_de_afiliado">Número de Afiliado:</label>
+        <input type="number" id="numero_de_afiliado" required />
+
+        <button type="submit">Registrar</button>
+      </form>
+
+      <!-- Contenedor para la nueva lista -->
+      <ul id="marina-socio-list"></ul>
+    </main>
+
+    <footer>
+      <p>
+        &copy; MarinaCoders2024
+        <a href="#home"><img src="assets/up.svg" alt="flechaUp" /></a>
+      </p>
+    </footer>
 
     <script src="src/services.js"></script>
   </body>
