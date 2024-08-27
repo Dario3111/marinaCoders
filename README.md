@@ -20,3 +20,4 @@ Bienvenido a **Marina Coders**, una página diseñada como un ejercicio práctic
 
 ## Autor
 Este proyecto fue desarrollado por **Darío Pacheco** como una herramienta educativa para la práctica y comprensión de las operaciones CRUD en aplicaciones web.
+
