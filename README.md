@@ -3,9 +3,11 @@
 # Marina Coders
 
 ## Descripción
+
 Bienvenido a **Marina Coders**, una página diseñada como un ejercicio práctico para aprender y dominar el uso de las operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en el desarrollo de software. Este repositorio ofrece una plataforma simple pero efectiva para practicar cómo interactuar con datos a través de un servidor falso, utilizando tecnologías como HTML, CSS, JavaScript y JSON Server.
 
 ## Objetivos del Proyecto
+
 - **Crear una estructura básica de la aplicación** utilizando HTML, CSS y JavaScript.
 - **Implementar un servidor falso** con JSON Server para simular una base de datos y manejar las operaciones CRUD.
 - **Desarrollar un formulario interactivo** que permita la gestión de una lista de afiliados ficticios en Marina Coders. Los usuarios podrán ingresar los siguientes datos:
@@ -19,5 +21,12 @@ Bienvenido a **Marina Coders**, una página diseñada como un ejercicio práctic
   - **Mostrar (GET):** Obtener y mostrar la lista actualizada de afiliados en la interfaz de la aplicación.
 
 ## Autor
+
 Este proyecto fue desarrollado por **Darío Pacheco** como una herramienta educativa para la práctica y comprensión de las operaciones CRUD en aplicaciones web.
 
+
+## Contribución
+
+Cualquier sugerencia, idea o contribución es de gran valor.
+
+Mantente atento a futuras actualizaciones mientras continuamos construyendo **Marina Coders**. ¡Gracias por tu interés y apoyo en este proyecto!
