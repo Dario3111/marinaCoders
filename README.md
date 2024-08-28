@@ -24,13 +24,9 @@ Bienvenido a **Marina Coders**, una página diseñada como un ejercicio práctic
 
 Este proyecto fue desarrollado por **Darío Pacheco** como una herramienta educativa para la práctica y comprensión de las operaciones CRUD en aplicaciones web.
 
-- Mejorar la interfaz de usuario (UI) con estilos avanzados.
-- Implementar autenticación y autorización de usuarios.
-- Agregar contenido educativo, como tutoriales y ejemplos de código.
-- Integrar funcionalidades sociales, como comentarios y foros de discusión.
 
 ## Contribución
 
-Dado que el proyecto está en evolución, cualquier sugerencia, idea o contribución es de gran valor.
+Cualquier sugerencia, idea o contribución es de gran valor.
 
 Mantente atento a futuras actualizaciones mientras continuamos construyendo **Marina Coders**. ¡Gracias por tu interés y apoyo en este proyecto!
