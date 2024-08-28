@@ -4,27 +4,25 @@
 
 ## Descripción
 
-Bienvenido a **Marina Coders**, un proyecto en evolución diseñado para crear una plataforma interactiva y educativa enfocada en la programación y el desarrollo de software. Este repositorio servirá como el punto central para la implementación de diversas funcionalidades y recursos que ayudarán a los programadores a mejorar sus habilidades técnicas.
+Bienvenido a **Marina Coders**, una página diseñada como un ejercicio práctico para aprender y dominar el uso de las operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en el desarrollo de software. Este repositorio ofrece una plataforma simple pero efectiva para practicar cómo interactuar con datos a través de un servidor falso, utilizando tecnologías como HTML, CSS, JavaScript y JSON Server.
 
-## Estado del Proyecto
+## Objetivos del Proyecto
 
-Actualmente, **Marina Coders** está en una fase temprana de desarrollo. El proyecto se encuentra en constante evolución, y se irán agregando nuevas características y actualizando la información de manera continua. Nuestro objetivo es construir una plataforma robusta y fácil de usar, por lo que cualquier sugerencia o contribución es bienvenida.
-
-## Objetivos Iniciales
-
-- Crear una estructura básica de la aplicación con HTML, CSS y JavaScript.
-- Implementar un servidor falso utilizando JSON Server para simular una base de datos y manejar operaciones CRUD.
-- Desarrollar un formulario que permita la creación de una lista de supuestos afiliados a Marina Coders. Los usuarios podrán proporcionar los siguientes datos:
+- **Crear una estructura básica de la aplicación** utilizando HTML, CSS y JavaScript.
+- **Implementar un servidor falso** con JSON Server para simular una base de datos y manejar las operaciones CRUD.
+- **Desarrollar un formulario interactivo** que permita la gestión de una lista de afiliados ficticios en Marina Coders. Los usuarios podrán ingresar los siguientes datos:
   - Nombre del socio.
   - Nombre de la embarcación.
   - Número de afiliado.
-- Añadir botones para **Agregar**, **Editar** y **Eliminar** afiliados en la lista, con el fin de estudiar las operaciones básicas de manejo de datos:
-  - **Agregar** (`POST`): Añade un nuevo afiliado a la lista.
-  - **Editar** (`PUT`): Permite modificar los datos de un afiliado existente.
-  - **Eliminar** (`DELETE`): Elimina un afiliado de la lista.
-  - **Mostrar** (`GET`): Obtiene y muestra la lista actualizada de afiliados en la interfaz de la aplicación.
+- **Incluir funcionalidades CRUD** con los siguientes métodos:
+  - **Agregar (POST):** Añadir un nuevo afiliado a la lista.
+  - **Editar (PUT):** Modificar los datos de un afiliado existente.
+  - **Eliminar (DELETE):** Eliminar un afiliado de la lista.
+  - **Mostrar (GET):** Obtener y mostrar la lista actualizada de afiliados en la interfaz de la aplicación.
 
-## Próximas Actualizaciones
+## Autor
+
+Este proyecto fue desarrollado por **Darío Pacheco** como una herramienta educativa para la práctica y comprensión de las operaciones CRUD en aplicaciones web.
 
 - Mejorar la interfaz de usuario (UI) con estilos avanzados.
 - Implementar autenticación y autorización de usuarios.
@@ -34,6 +32,5 @@ Actualmente, **Marina Coders** está en una fase temprana de desarrollo. El proy
 ## Contribución
 
 Dado que el proyecto está en evolución, cualquier sugerencia, idea o contribución es de gran valor.
-
 
 Mantente atento a futuras actualizaciones mientras continuamos construyendo **Marina Coders**. ¡Gracias por tu interés y apoyo en este proyecto!
